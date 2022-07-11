@@ -1,0 +1,3 @@
+[submodule "lv2_plugs"]
+	path = lv2_plugs
+	url = https://gitlab.com/dmt-soma/lv2_plugs
